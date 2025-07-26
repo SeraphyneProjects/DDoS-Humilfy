@@ -42,3 +42,13 @@ python3 ddos.py --listener # Use --no-proxy if you want to launch non-proxied DD
 [+] Waiting for commands..
 ```
 ---
+
+# Also, here is your default proxy:
+---
+``` notepad
+128.199.254.13:9090
+146.190.80.158:9090
+23.237.210.82:80
+```
+- Save it in txt file in your main terminal
+---
