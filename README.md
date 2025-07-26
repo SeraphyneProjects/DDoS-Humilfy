@@ -16,6 +16,9 @@ python3 remote.py
 - Now, once you successfully run the remote program type this:
 ```bash
 set-kkey
+```
+- And for the input:
+``` python
 KKey-cjs: https://<ngrok link>/command.json
 KKey-cph: https://<ngrok link>/command.php
 KKey-aph: https://<ngrok link>/accepted.php
